@@ -1,4 +1,4 @@
-ARG  FROMIMAGE=cp.icr.io/cp/appc/ace-server-prod@sha256:c45d6e2bb78f0bad4865d38b52117fe8f57e2ef6c17d434a67c63838eef22d2d
+ARG  FROMIMAGE=default-route-openshift-image-registry.apps.ocp-6640020dli-7cyg.cloud.techzone.ibm.com/rashid/ace-server-prod:12.0.11.2-r1
 
 # default-route-openshift-image-registry.apps.ocp-6640020dli-abby.cloud.techzone.ibm.com/rashid/ace-server-prod:12.0.11.2-r1
 # default-route-openshift-image-registry.apps.ocp-6640020dli-7cyg.cloud.techzone.ibm.com/rashid/ace-server-prod:12.0.11.2-r1
